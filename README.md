@@ -1,8 +1,8 @@
 # Orbit Web
 
-Веб-версия Orbit: **Next.js · TypeScript · PostgreSQL · Drizzle · Better Auth**. Отдельна от [Orbit iOS](https://github.com/KrakeKrip/Orbit); базы и аккаунты между ними не синхронизируются.
+Веб-версия Orbit: **Next.js · TypeScript · PostgreSQL · Drizzle · Better Auth**. Отдельна от [Orbit iOS](https://github.com/KrakeKrip/Orbit-IOS); базы и аккаунты между ними не синхронизируются.
 
-Перенесена18октября2026 точным снимком tracked web-файлов из Orbit на коммите72417009de790211047e7e667f9e112ea25031fe. История до разделения: https://github.com/KrakeKrip/Orbit/tree/72417009de790211047e7e667f9e112ea25031fe. Apple-код, пользовательские базы, .env и локальные caches не переносились.
+Перенесена18октября2026 точным снимком tracked web-файлов из Orbit на коммите72417009de790211047e7e667f9e112ea25031fe. История до разделения: https://github.com/KrakeKrip/Orbit-IOS/tree/72417009de790211047e7e667f9e112ea25031fe. Apple-код, пользовательские базы, .env и локальные caches не переносились.
 
 Реализованы Inbox/Today/Upcoming, one-off задачи, civil-планирование, проекты, настройки аккаунта и серверная авторизация. Состояние прошлой приёмки — reports/TASK-008*. Перенос не означает новый production deploy и не возобновляет автоматически разработку.
 
